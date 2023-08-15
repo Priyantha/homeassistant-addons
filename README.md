@@ -6,9 +6,7 @@
 
 This repository contains the following add-ons:
 
-Home Assistant Add-on: Z-Wave JS UI Proxy
-
-### [Example add-on](./example)
+### [Home Assistant Add-on: Z-Wave JS UI Proxy](./zwave-js-ui-proxy)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
